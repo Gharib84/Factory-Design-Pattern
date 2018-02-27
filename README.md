@@ -12,6 +12,6 @@ TypeScript
 8.  Only adults can sign contracts.
 9.  For reporting purposes, each type of person must be able to print their details.
 This should include the following:
-                              * Item Date Of Birth
-                              * Item Category Of Person
-                              *   Whether they can sign contracts or not
+* Date Of Birth
+* Category Of Person
+* Whether they can sign contracts or not
